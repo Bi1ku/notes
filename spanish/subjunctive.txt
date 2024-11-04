@@ -1,0 +1,40 @@
+Present Subjunctive
+  - The subjunctive tense in Spanish is sued to indicate uncertainty, and events that are not real
+  - WEIRDO acronym
+    - Wishes
+    - Emotions
+    - Impersonal Expressions
+    - Recommendations
+    - Doubt/Denial
+    - Ojalá
+  - To conjugate, generally, take the stem of the "yo" form of the verb and swap the endings or -ER and -IR verbs with -AR verbs and vice versa
+    - E.g., Escuchar => Escucho => Escuhe
+  - There are only SIX irregulars verbs:
+    - Dar: dé, des, dé, demos, den
+    - Ir: vaya, vayas. vaya, vayan
+    - Ser: Sea, seas, sea, seamos, sean
+    - Haber: Haya, hayas, haya, hayamos, hayan
+    - Estar: Esté estés, esté estemos, estén
+    - Saber: sepa, sepas, sepa, sepamos, sepan
+
+Imperfect/Past Subjunctive
+  - The imperfect subjunctive is essentially the present subjunctive but in the past
+    - Used to express hypothetical situations, past wants, habits, etc.
+  - To conjugate, start with the third person plural form of the verb in the preterite tense. Then, drop the -ron ending and add:
+    - Yo: -ra, Tú: -ras, Él/Ella/Usted: -ra, Nosotros: -ramos, Ellos/Ellas/Ustedes: -ran
+    - All imperfect subjunctive irregulars follow their irregular forms of the preterite form
+    - E.g., Tener => Tuvieron => Tuviera, Poder => pudieron => pudiera
+
+Present Perfect Subjunctive
+  - Remember that present perfect refers to an action that has ALREADY been done. Now add the functinons of subjunctive to the past perfect tense. BOOM! A new tense has been created.
+    - ChatGPT had a good way of putting it, "The present perfect subjunctive is used in Spanish to talk about actions that are seen as having been completed, in the context of expressions of doubt, emotion, uncertainty, or will in the present."
+  - To conjugate, [PRESENT SUBJUNCTIVE OF HABER] + [PAST PARTICPLE]
+    - E.g., Mi profesora duda que yo haya completado mi tarea a tiempo.
+      - My professor doubts that I have completed my homework on time.
+
+Past Perfect Subjunctive
+  - The past perfect subjunctive is essentially the same as the present perfect subjunctive but well... in the past perfect.
+    - Remember that the past perfect is used to describe actions that have occured BEFORE another specified action.
+  - To conjugate, [IMPERFECT SUBJUNCTIVE HABER] + [PAST PAST PARTICIPLE]
+    - E.g., Mi profesora duda que yo hubiera completado la tarea antes de Sam.
+      - My professor doubts that I had completed the homework before Sam.

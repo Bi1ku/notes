@@ -1,0 +1,20 @@
+Imperfect
+  - The imperfect tense is like more complex, naunced version of the preterite tense (or simple past tense) in Spanish. It is used to convery ongoing, habitual, or incomplete actions in the past.
+    - Often used when talking about what USED TO HAPPEN, WAS HAPPENING, or WOULD HAPPEN.
+    - Also describing people, places, or things in the past.
+  - To conjugate -AR verbs:
+    - Yo: -aba
+    - Tú: -abas
+    - Él/Ella/Usted: -aba
+    - Nosotros: -ábamos
+    - Ellos/Ellas/Ustedes: -aban
+  - To conjugate -IR and -ER verbs:
+    - Yo: -ía
+    - Tú: -ías
+    - Él/Ella/Usted: -ía
+    - Nosotros: -íamos
+    - Ellos/Ellas/Ustedes: -ían
+  - There are THREE irregular imperfect verbs:
+    - Ser: era, eras, era, éramos, eran 
+    - Ir: iba, ibas, iba, íbamos, iban
+    - Ver: Veía, veías, veía, veíamosm veían

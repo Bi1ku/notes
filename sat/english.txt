@@ -1,0 +1,57 @@
+DSAT ENGLISH MASTERDOCS:
+
+VOCABULARY:
+ambivalence - contradictory attitude towards someone or something
+innocuous - harmless
+epitomize - to be the perfect example of
+evocative - bringing strong images or memories to mind
+palpable - so (usually visually) intense as to almost feel it
+tenuous - flimsy, weak
+vivacious - attractive energetic or lively
+perspicacity - ready insight into things; all-rounded
+repudiate - reject; refuse to accept/conform
+bipartisan - the agreement of two parties that usually disagree
+latent - existence but not yet developed; hidden or concealed
+predilection - a preference for something
+duality - the quality or condition of being dual
+endeavor - try hard to achieve a goal, or an attempt to achieve a goal
+peripheral - on the edge; not important; out of the way
+toil - to work hard and long; laborious
+unorthodox - not conforming to the usual style, tradition, or practices. 
+orthodox - conforming to the normal doctrines or practices.
+conjecture - (n) a claim that's not based on facts; (v) making a claim that's not based on facts
+dissect - to seperate in pieces
+cursory - hasty and therefore not thorough or detailed.
+myopic - lacking imagination.
+eschelon - a level an organization, society, or etc.
+verismilitude - the appearance of being true.
+buttress - a source of defense or justification.
+acinine - stupid.
+ameilorate - to better something.
+furitive - attempting to avoid notice or attention.
+arcane - mysterious or secret
+superflous - excessive; more than neccesary.
+seredendipty - a series of fortunate events and luck in a happy way
+ubiqituos - happening everywhere
+defunct - something that used to exist but doesn't anymore.
+
+TENSES:
+Present, Past, Future
+Present Perfect ([has, have] + [participle]) - things in the past that are still happening
+Past Perfect ([had] + [participle]) - things in the past that have occurred before another thing in the past
+Future Perfect ([will have] + [participle]) - things that will be done before a certain time frame
+Present Continuous ([am, is, are] + [gerund]) - actions that are currently happening
+Past Continuous ([was, were] + [gerund]) - actions that were happening in the past 
+Future Continous ([will be] + [gerund]) - actions that will be happening in the future
+
+PROCEDURE (FOR VERB FORM QUESTIONS):
+1. Check for subject-verb agreement (FIND THE SUBJECT - REMOVE PREPOSITIONAL PHRASES)
+2. Check for verb tense (generally should follow the big three tenses - present, past, future)
+3. Check for verb form (gerund, participle, infinitive, etc.)
+
+GENERAL NOTES:
+- If a question asks you to summarize a study, summarize the WHOLE study, which is usually all the bullet points, not just the methodology.
+- Make sure you have a good understanding of the text. Read slow and sometimes reread if you don't understand something. Knowledge is priority.
+
+MISTAKES:
+- GERUNDS CAN BE SUBJECTS

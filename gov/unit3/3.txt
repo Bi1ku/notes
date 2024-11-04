@@ -1,0 +1,46 @@
+Obviously, federalism leads to disputes between states.
+  - Child labor laws, regulation of infrastructure => regulation of abortion, standards for public schools, healthcare, environmental protection, et.c
+
+Supremacy clause: Article VI, Clause 2
+  - The constitution
+  - Laws of the national governmeny, as long as they are deemed constitutional
+  - Treaties (which can be made only be the national gov.)
+
+All state political leaders must swear an oath to their loyalty to the consitution, and therefore, supremacy clause.
+  - So now, it's only up to interpretation of the Consitution that instigates this debate between state and federal (implied powers)
+    - 1832 attempt to nullify national tarrifs by South Carolina
+    - Challenging of No Child Left Behind Act
+    - Challenging of the requirement of the Affordable Care Act
+    - Brown v. Board of Education
+  - the Supreme Court’s interpretation of the Tenth and Eleventh Amendments, implied powers, and the commerce clause.
+
+The 10th Amendment: Powers not delegated to the national government are reserved to the states or the people.
+  - This is the basis for the argument of states' rights.
+  - Supreme Court has ruled that the 10th Amendment does not give states the right to nullify federal laws.
+
+The 11th Amendment: States are immune from suits from out-of-state citizens and foreigners not living within the state borders.
+  - Unless it breaks a crucial part of the constitution or federal law (like basic consitutional rights)
+    - 14th Amendment
+  - States and federal government can sue other states, and vice versa
+  - Such suits are common nowadays
+
+McCulloch v. Maryland - Implied powers to achieve federal government's responsibilites
+  - Reinforced that Congress was the supreme law of the land
+  - Congress did not have an enumerated power explicitly saying the creation of a national bank was proper, but it did mention that it had the power to promote economic development and "make all laws necessary and proper for carrying into execution the foregoing powers." (Article 1, Section 8)
+    - Implied powers were established 
+    - Known as the elastic clause 
+
+Gibbons v. Ogden - broad interpretation of "commerce"
+
+Great Depression strengthed federal power as new economic and social welfare programs were put in place (New Deal by FDR).
+  - Broader interpretation of the Consitution 
+
+Federalism also describes the relationships between states and other states
+  - Full faith and credit (Article IV)
+    - Marriage, driver's licsense, passport, birth certificate, loans, debts etc. are valid in all states
+
+Almost all criminal law is determined by the state (as per the Consitution)
+  - Extradition - a person who commits a law in one state must be returned to that state for judicdial processes
+
+"Prohibit states from discriminating against citizens of other states"
+  - Same rights and prividledges that are fundamental (e.g., same sales tax and police protection in one state as the other regardless of residence).

@@ -37,7 +37,7 @@ Categorical grants - grants to the state that can only be put to a specific caus
   - Crossover sanctions - must meet a particular rule to get a grant
   - Crosscutting requirements - requirement on one grant applies to all other active funding
   - TWO TYPES:
-    - Project grants - dermined on compeititve applicants
+    - Project grants - dermined on compeititve applications of projects/proposals 
     - Formula grants - determined on a formula calculator
 
 Block grants are grants with no strings attached. Given automatically to states and can be delegated for any purpose.

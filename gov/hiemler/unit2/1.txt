@@ -1,2 +1,36 @@
 Congress 4/15: Describe the different structures, powers, and 
-functions of each house in Congresse
+functions of each house in Congress
+
+Bicameral Legislature: Senate and the House
+
+Senate:
+  - States are represented equally
+  - 30 year old minimum
+  - six year term to be more mature
+    - Less public pressure
+  - Less connected, broader issues
+  - Unlimited Debate
+    - relaxxed and informal
+
+House:
+  - Representation via population
+    - Census every ten years
+  - Guaranteed at least one representative
+  - 25 years old minimuim
+  - 2 year terms
+  - More volatile
+  - Needs to be more responsive
+  - More representative of local issues in specific districts
+  - Limited Debate
+    - Structured and rules
+
+Main purpose is to make laws.
+
+Article 1. Sec. 8 (Enumerated powers of congress):
+  - Determine federal budget
+  - Raise revenue and taxation
+  - Coin money
+  - Declare war
+  - Maintain armed forces.
+
+Implied powers via elastic clause

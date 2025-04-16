@@ -4,5 +4,6 @@ Advice and consent:
   - Appointted by president, approved by congress
     - Delegates or ambassadors to other countries
     - Presidential cabinet 
+    - White house staff (but doesn't need congressional approval)
     - Judges to federal court (esp. Supreme Court)
       - Lifetime tenure

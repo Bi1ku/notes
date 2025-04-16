@@ -21,3 +21,5 @@ Judicial Review: Court has the power to rule on the constitutionality of the law
         - Insulates judges from political pressure and focus only on
         constituional interpretation of the laws
   - Marbury vs. Madison:
+    - Established the precedent of judicial review
+    - Most potent checking power that the court possess

@@ -12,8 +12,9 @@ House of Representatives:
     - Guides their members towards certain stances in certain issues.
     - Direct debates on the floor
     - Communicate with majorioty leader
-  - Majority and Minority Disciplines
+  - Majority and Minority Whips 
     - Makes sure that other party leaders are aligned with the overall party goals
+    - Render party discipline
 
 Senate:
   - President of the Senate is also V.P of U.S
@@ -25,4 +26,34 @@ Senate:
 
 System of committees to filter out all the proposed legislation.
 
-Types of committees: standing committees, joint committees, 
+Types of committees: standing committees, joint committees, select committees, 
+conference committee
+  - Standing committess are permanent. Forever issues/topics like taxation or 
+  budget. Appropriations committee or way and means committee.
+  - Joint committees are committees where both House and Senate are in for a dual
+  jurisdiction topic like the library
+  - select committees are temporary committees to solve a contemporary issue like
+  Covid
+  - conference committees are to resolve disputes between both houses when facing
+  conflict in the law making process
+
+House Rules Committee
+  - Gatekeeper for all legislation, designates which legislation makes it to floor, 
+  determines the logistics/rules/procedures of the debate.
+
+Ability to discharge
+
+Senate filibuster & Cloture rule & Unanimous rule beforehand
+
+1. Bill proposed by member from House or Senate
+2. Goes to committee debates, considered, changed, etc.
+3. Debated on floor
+4. Voted => law if president apporves
+
+logrolling, pork barrel spending, riders
+  - riders are nonrelevent additions to try to sneak into a bill. or also try to help pass
+  - pork barrell spending are riders that try to get more funding for sponsored legislature's disctric
+  - logrolling: if you vote for my bill, i'll vote for yours
+
+Mandatory Spending vs. Discretionary Spendingr
+    - We use deficiet spending.

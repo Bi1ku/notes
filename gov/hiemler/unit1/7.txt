@@ -8,6 +8,7 @@ Reserved Powers - Powers kept by the states. Powers not delegated or prohibitied
 that power belongos to the states
   - Policing
   - Education
+  - Hospitals
 Concurrent Powers - Powers to both federal and state governments
   - Taxation
 

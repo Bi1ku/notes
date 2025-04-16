@@ -1,0 +1,23 @@
+The Judicial Branch 4/15
+
+Only one explicity mentioned by the Constitution is SCOTUS (The Supreme Court
+of the United States) in Aritcle 3.
+
+Origianl Jurisdication Courts (first time hearing) vs Appellate Jurisdiction
+Court (appeal after a ruling)
+
+Most of SCOTUS is appeals, but technically also original
+
+
+Article 3 Sec. 1 gives Congress the power to establish other inferior courts
+  - Judiciary Act of 1789 foundation
+
+SCOTUS (1) <= Courts of Appeals (13) <= District Courts (94)
+
+Judicial Review: Court has the power to rule on the constitutionality of the laws
+  - Federalist 78 to justifuy:
+    - Independece of judicial branch formed protective wall around its power
+      - Lifetime appointments of its judges
+        - Insulates judges from political pressure and focus only on
+        constituional interpretation of the laws
+  - Marbury vs. Madison:

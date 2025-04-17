@@ -1,0 +1,20 @@
+Selective Incorporation
+
+Selective Incorporation is the process by which the Bill of Rights is applied to
+the states.
+
+14th Amendment: "No state shall make or enforce anyt law which shall abridge
+the privileges or immunities of citizens of the United States..."
+  - Basically extends Bill of Rights to the states
+
+Most of the time, SCOTUS does this job of selective incorporation.
+
+Reynolds v. United States: Reynolds had many wives because he was a morman.
+Utah had outlawed polygamy.
+  - SCOTUS disagreed with Reynolds because though state couldn't outlaw the 
+  belief of polygamy, they could with the act of polygamy.
+
+McDonald v. Chicago: 
+  - IF court ruled that second amendment allowed citizens of washington d.c
+  to own handguns, same should be for the states
+    - Stare decisis

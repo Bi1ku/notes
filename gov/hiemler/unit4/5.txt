@@ -1,0 +1,40 @@
+Measuring Public Opinion
+
+Main Way: Scientific Polls
+
+If a poll is created with scientific rigor, then it is the best tool to measure 
+public opinion.
+
+For a poll to have scientific rigor is the hard part:
+  - The questions should be free from bias.
+  - Random selection of people.
+  - Generalize results to the larger population.
+
+Types of Polls:
+  - Opinion Poll
+    - Get a feel for the public's opinion on a certain topic,
+    certain candidates, or policies.
+  - Benchmark Poll
+    - Taken at beginning of a campaign to compare to how well they are doing.
+  - Tracking Poll
+    - Conducted over time with same group of people. Gives information about
+    how an opinion devlopes over time in a certain group about a given issue.
+  - Entrance/Exit Polls
+    - Conducted at voting sites to ask people how they voted. Before => entrance
+    After => exit.
+
+Sampling Methodology:
+  - Needs to be representative
+  - Random
+
+Sampling error:
+  - There's always a chance that the sample will not exactly represent general pop.
+  - +/- 3 sampling error is good
+
+Neutral questions
+
+Mass Surverys (Quantatative Data) vs. Focus Group (Qualatative Data)
+  - Focus Groups aren't considered scientific polling since not numerical, but
+  can be helpful.
+
+

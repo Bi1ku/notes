@@ -1,0 +1,42 @@
+Campaign Finance
+
+Growing debate and regulatory conflcits/laws about the role that money should
+be able to play in politics.
+
+Federal Elections Campaign Act (FECA)
+  - New independent regulatory commission called Federal Election Commission (FEC)
+  - Oversees money spent in political campaigns
+    - how much money one person can give to political candidate
+    - How much money candidate can spend on campaign (decked unconsitutional)
+
+Soft Money vs. Hard Money:
+  - Hard Money is contributions given directly to the candidate's campaign
+  - Soft money is donated to a third party group who advertises on the behalf
+  of the candidate.
+    - Not subjected to finance laws
+
+Bipartisan Campaign Reform Act (BCRA):
+  - Increase hard money limits
+  - Make soft money donations transparent
+
+Citizens United V. FEC:
+  - BCRA's limitationns on how much money donated from individuals and corps.
+  was a violation of first amendment.
+    - funding cannot be limited
+  - Court ruled that they were right
+
+Poltical Action Committee (PAC):
+  - Connected PACS
+    - Formed by corporations like labor unions
+    - Only collect funds from the members of their organization
+    - Donated to candidates in limited quantities
+    - Can raise unlimited money as long as limited are obeyed
+  - Non-connected PACs
+    - Independent of organization, usually united by a particular issue.
+    - Donations from anyone from the public, but limited by law
+    - Donate directly to candidates
+  - Super PACs
+    - Formed by anyone
+    - Unlimited donations
+    - Cannot directly coordinate with candidate
+

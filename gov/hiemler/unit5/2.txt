@@ -1,0 +1,42 @@
+Voter Turnout
+
+Explain factors that affect voter turnout rates.
+
+Voter Turnout affected by the following:
+  - Sturctural Barriers
+  - Political Efficacy
+  - Demographics
+  - Type of Election
+
+Structural Barriers: 
+  - Policy or law preventing people from voting or encouraging
+  people to vote.
+    - E.g., Voter ID laws that makes it mandatory to vote.
+
+Political Efficacy:
+  - A citizen's belief about whether their vote matters.
+    - E.g., belief that your republican vote won't matter in a democratic-majority
+    district.
+    - E.g., Politicans are corrupt so I don't want to vote.
+    - E.g., Politicans are very good so I want to vote.
+
+Demographics:
+  - Senior citizens vote in the highest numbers.
+    - More understanding in politics? and social issues?
+    - Want to protect finances?
+  - 18-21 year olds are the least likely to vote
+    - Don't know how to
+    - Aren't as educated
+
+Type of Election:
+  - National elections have more participation
+    - 66% turnout in 2020 election
+    - 2018 Midterm elections had turnout of 43.4%
+    - State and local elections even less
+
+What factors affect there choices?:
+  - Political ideology
+  - Candidate character
+  - Current political and social issues
+  - Economy
+  - Relgious beliefs, gender, race, etc.

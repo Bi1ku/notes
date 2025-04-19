@@ -23,7 +23,7 @@ Fiscal Federalism (i.e., federalism through economics)
         - Money to be spent in a broad category, but states have freedom
         to decide what they want to invest in within that broad category.
       - Mandate--requirements
-        - Requirements for states to follow federal directive. To follow that directive     - Unfunded Mandate
-        money is handed out to help.
+        - Requirements for states to follow federal directive/regulation. To
+        follow that directive money is handed out to help.
         - Federal government sets the mandate but doesn't give any funding.
 

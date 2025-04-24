@@ -7,6 +7,7 @@ authority of the executive branch.
 Cabinent Departments & their agencies
   - President cabient is the head of those departments
   - Agencies are like sub groups that work to achieve the goal of the department
+    - IRS
   - E.g., Department of Education, Department of Defense, etc.
 
 Indepdent Regularltory commissions:
@@ -28,6 +29,12 @@ Bureaucratic organizations:
 Iron Triangle
   - Bureaucratic Agences <=> Congressional Committees <=> Interest Groups
 
+Compliance Monitoring to make sure legislation is being interpreteed correctly.
+  - Comitteee hearings
+  - Power of the purse
+
+Iron Triangle between bureaucratic agencies, congressional comittes, and interest groups.
+
 7 to know:
   - Department of Homeland Security
     - Protect borders, prevent terrorism, ensure national security.
@@ -36,7 +43,7 @@ Iron Triangle
   - Education
   - Environmental Protrection Agency
   - Federal Elections Comission
-  -= Securities and Exchange Comission
+  - Securities and Exchange Comission
 
 Issue Networks
 

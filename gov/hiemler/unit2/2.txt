@@ -11,7 +11,6 @@ House of Representatives:
   - Majority and Minority Leaders
     - Guides their members towards certain stances in certain issues.
     - Direct debates on the floor
-    - Communicate with majorioty leader
   - Majority and Minority Whips 
     - Makes sure that other party leaders are aligned with the overall party goals
     - Render party discipline
@@ -23,6 +22,7 @@ Senate:
   - Majority Leader:
     - Determines legislative agenda
     - Controls assignment of bills
+  - Whips
 
 System of committees to filter out all the proposed legislation.
 
@@ -41,9 +41,10 @@ House Rules Committee
   - Gatekeeper for all legislation, designates which legislation makes it to floor, 
   determines the logistics/rules/procedures of the debate.
 
-Ability to discharge
+Ability to discharge petition (automatically bring a bill to the floor) 
+if 218 members sign it.
 
-Senate filibuster & Cloture rule & Unanimous rule beforehand
+Senate filibuster & Cloture rule & Unanimous consent rule beforehand (agreemnent to not filibuster)
 
 1. Bill proposed by member from House or Senate
 2. Goes to committee debates, considered, changed, etc.
@@ -55,5 +56,5 @@ logrolling, pork barrel spending, riders
   - pork barrell spending are riders that try to get more funding for sponsored legislature's disctric
   - logrolling: if you vote for my bill, i'll vote for yours
 
-Mandatory Spending vs. Discretionary Spendingr
+Mandatory Spending (medicaid, social security, medicare, etc.) vs. Discretionary Spending (usually paying federal employees)
     - We use deficiet spending.

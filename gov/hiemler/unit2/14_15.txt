@@ -11,6 +11,7 @@ President:
     - Fire and hire
   - Executive Orders to bring them in line
   - Compliance Monitoring
+    - process by which government agencies make sure that individuals, businesses, or other government entities are following laws, regulations, or rules.
 
 Judicial:
   - Appeal to courts when regulations are unconsititional

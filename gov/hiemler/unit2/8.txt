@@ -20,6 +20,7 @@ Judicial Review: Court has the power to rule on the constitutionality of the law
       - Lifetime appointments of its judges
         - Insulates judges from political pressure and focus only on
         constituional interpretation of the laws
+      - Right of judicial review (but not actually in constitution)
   - Marbury vs. Madison:
-    - Established the precedent of judicial review
+    - Firmly established the precedent of judicial review (hinted at in federalist 78)
     - Most potent checking power that the court possess

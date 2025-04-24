@@ -13,7 +13,10 @@ Informal Powers:
   - Executive order
     - Order from president that has the force of federal law, but is not actually
     the law
+    - Direct actions of federal burarucreacy and military
   - Signing statements
+    - President's interpretation of the law
+    - Little add ons when signing law into effect
   - Executive agreements between another head of state
 
 As long as the president plays by the rules that congress makes, and that the judge

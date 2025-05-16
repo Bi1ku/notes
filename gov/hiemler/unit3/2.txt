@@ -9,6 +9,7 @@ public wellbeing or a societal functions, for example.
 "Congress shall make no law respecting an establishment of religion, or prohibiting
 the free exercise thereof..."
   - Establishment Clause & Free Excercise Clause
+  - Part of 1st amendment
 
 Many have tried to weaken or strength the relationship between state and religion
   - E.g., Johnson amendment: Preachers can't say who they endorse unless their 
@@ -25,4 +26,3 @@ Thought that requirements violated the free exercise clause.
 
 Employment Division v. Smith: Native American culture/ritual that used illegal drugs
   - Court ruled against since it was federally illegal and was a threat to society
-

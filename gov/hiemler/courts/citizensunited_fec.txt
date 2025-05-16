@@ -1,0 +1,19 @@
+Citizens United v. FEC
+
+Facts:
+  - Campaign finace laws (esp. Bipartisant campaign finance act (bcra))
+    - BCRA made it illegal for corporations or non profits to engage in
+    electioneering communications for 60 days before an election or
+    30 days before a primary
+  - Citizens United wanted to release a damning documetary to sway votes
+  away from Hilary, but couldn't due to limits
+  - Citizens United argued that it violated first amendment speech
+
+Decision:
+  - Court agreed with Citizens United (5-4)
+  - Basically same as government censorship of speech to individuals
+  - Laws that restricted finance and when to release were all unconstitutional
+  - Law was struct down
+
+Why does it matter?:
+  - Essentially unlimited money for funding

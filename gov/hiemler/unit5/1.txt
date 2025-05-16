@@ -10,10 +10,13 @@ changes whenever.
   - Only white men who owned property could vote
     - Believed men with property had a stake in the betterment of the state
 
+FRANCHISE AMENDMENTS
+
 15th Amendment: Recongized black men to vote
 
 17th Amendment: Granted the people the right to vote senators into office (appointed
 by state legislatures before).
+  - Elite democracy => participatory democracy
 
 19th Amendment: Women's right to vote
 
@@ -32,4 +35,3 @@ Voting Models (How people choose to vote):
     - Votes based on a prediction on what the candidate will perform in the future.
   - Party line voting
     - Only vote for the candidate in their party.
-

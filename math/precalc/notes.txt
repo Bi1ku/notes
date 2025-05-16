@@ -1,0 +1,88 @@
+Odd function: f(x) = -f(-x). 180 degree rotation around origin
+Even function: f(x) = f(-x) 
+  - reflection over y-axis
+  - f(x) = f(-x)
+
+Concave Up: the slope is increasing (getting more positive)
+Concave Down: the slope is decreasing (getting more negative)
+Point of inflection: the point where the concavity changes. (E.g., slope increasing => slope decreasing)
+Rate of change vs. AVERAGE rate of change
+
+Log properties (all)
+log a + log b = log (a * b)
+log a - log b = log (a / b)
+log a^n = n log a
+b ^ log base b (k) = k
+log base b (b^k) = k
+change of base (a to b) = log base b (k) / log base b (a)
+
+Rose graphs
+acos(xn) asin(xn)
+cos is on x-axis (a > 0 to the right, a < 0 to the left)
+sin is on the y-axis (a > 0 to the down, a < 0 to the up)
+if x is even, then 2x petals
+if x is odd, then x petals
+a is the petal length
+
+Limacons
+a + bcos(x) a + bsin(x)
+sin => symmetry over y-axis
+cos => symmetry over x-axis
+a/b < 1 => loop
+a/b = 1 => cardiod
+1 < a/b <= 2 => dimple
+
+Binomal expansion
+(a + b)ˆn = n sigma k = 0 (n choose k) a^(n-k) b^k
+(n choose k) = n! / (k!(n-k)!)
+
+Exponential functions
+ab^x
+-a => reflection over y axis
+-x => reflection over x axis
+  - Relate to properties of negative exponents
+b > 0 => 
+
+Double angle 
+sin(2x) = 2cosxsinx
+cos(2x) = cos^2x - sin^2x
+cos(2x) = 2cos^2x - 1
+
+Pythagorean identities
+sin^2x + cos^2x = 1
+1 + tan^2x = sec^2x
+1 + cot^2x = cot^2x
+
+Adding subtracting sin cos
+sin(a + b) = sin(a)cos(b) + cos(a)sin(b)
+sin(a - b) = sin(a)cos(b) - cos(a)sin(b)
+cos(a + b) = cos(a)cos(b) - sin(a)sin(b)
+cos(a - b) = cos(a)cos(b) + sin(a)sin(b)
+
+Properties of sin and cos
+sin(-x) = -sin(x)
+cos(-x) = cos(x)
+
+Rational functions
+degree on top is less, y = 0
+degree on top is equal, y = a/b
+degree on top is greater, slant asymptotoe
+
+Inverse function (x, y) => (y, x)
+  - reflection over y = x
+
+Odd functions (x, y) => (-y, -x)
+  - refletion over origin
+  - 180 degree rotation around origin
+  - reflection over x-axis and y-axis
+  - f(-x) = -f(x)
+  - f(x) = -f(-x)
+
+Trigonometric inverse function ranges & domains
+arcsin(x) R: [-pi/2, pi/2] D: [-1, 1]
+arccos(x) R: [0, pi] D: [-1, 1]
+
+Log properties
+Rose Graphs, Limacons
+Binomial expansion
+Double angle formulas

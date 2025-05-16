@@ -1,0 +1,18 @@
+McDonald v. Chicago
+
+Facts:
+  - Heller v. District of Columbia => restrictive gun ownership laws in dc are
+  unconstitutional. Since dc is a federal district, however, only applies to federal.
+  - McDonald wanted ot apply this to the states
+    - Hunter who lived in gang infested area. Robbed 5 times already
+    - Wanted handgun, but chicago laws made it almost impossible legally
+  - McDonald argued that second amendment was violated.
+  - Chicago argbued that these gun laws were necessary to uphold public safety.
+
+Decesions:
+  - Ruled in favor of McDonald.
+    - Expanded Heller v. District of Columbia to states
+
+Why it matters?:
+  - Selective Incorporation
+  - Other states had to rewrite gun laws

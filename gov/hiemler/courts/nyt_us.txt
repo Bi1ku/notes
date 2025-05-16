@@ -1,0 +1,21 @@
+New Yrok Times v. The United States
+
+Facts:
+  - Heated debate over vietnamese war, a war that congress didn't even declare
+  - Johnson and Nixon lied about their success in the war
+  - Leaked papers to NYT and Washington Post showed their lies => publish
+  - United States invoked prior restraint
+    - Prior restraint - can prevent media if information threatens national security
+  - NYT argued that it violated first amendment
+
+Decision
+  - Court agreed with NYT
+  - Said Nixon's order was unconstitutional
+  - Bar to clear the prior restraint bar is very high
+    - But can be used if it really threatens national security
+    - i.e., leaking dday location landing to the public before the event
+  - In this case, nixon just didn't want to be exposed
+
+Why does it matter?:
+  - Free press > censorship
+  - Made it clear about the bar to invoke prior restraint

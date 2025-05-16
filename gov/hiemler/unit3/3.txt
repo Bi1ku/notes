@@ -17,6 +17,8 @@ claiming it was a distraction to learning. Students said it violated free speech
   but there was no actual disruption, only the fear of disruption.
   - Right to symbolic speech was upheld.
 
+Basically they can control the method speech is being done, but not message itself.
+
 Morse v. Frederick: Student held up a very bad sign that had a lot of profanity.
 Got suspended. Appealed the suspention and went in front of court.
   - Court ruled against since it promoted illegal drug use and din't have any
@@ -40,6 +42,7 @@ Schenck v. United States: Schenck made pamphlets that encouraged young men to av
 the draft. Arrested.
   - SCOTUS ruled that convinctino was constitutional because his pamphlets
   incited unlawful actinos, creating a present danger to American society.
+  - His speech presented a clear and present danger because it was illegal.
 
 Brandenburg Test is the new standard. Makes it harder for government to prosecute
 speech.

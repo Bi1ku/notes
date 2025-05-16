@@ -1,5 +1,7 @@
 Due Process and Rights of the Accused
 
+5th amendment => prevention from self-incrimination
+
 4th, 5th, and 6th amendments.
   - All have to do with civil liberties when accussed of a crime
   - due process of the law
@@ -25,3 +27,12 @@ Riley v. California:
 6th Amendment & Gideon v. Wainwright.
   - Gideon wasn't given a lawyer. SCOTUS ruled that this was unconstitutional.
   - Incorporated 6th amendment to the states.
+
+procedural due process - procedures and methods that governments use to make
+sure that your rights aren't infringed upon.
+  - E.g., miranda rights, public attorney, etc.
+
+substantive due process - whether laws themselves are constitutional and actually
+well... valid.
+
+

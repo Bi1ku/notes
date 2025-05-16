@@ -34,7 +34,7 @@ Type of Election:
     - 2018 Midterm elections had turnout of 43.4%
     - State and local elections even less
 
-What factors affect there choices?:
+What factors affect their choices?:
   - Political ideology
   - Candidate character
   - Current political and social issues

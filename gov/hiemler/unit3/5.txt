@@ -1,5 +1,7 @@
 The Right to Bear Arms
 
+1960's forward, gun control became an increasingly larger issue.
+
 District of Columbia v. Heller: Police officer wanted to carry his gun home for 
 self-defense. But DC had so many restrictions in terms of gun laws, so he calimed
 that it was in an attempt to [prevent him from bearing arms.
@@ -10,3 +12,4 @@ that it was in an attempt to [prevent him from bearing arms.
 
 McDonald v. Chicago
   - Essentially applied Heller decision to the states
+    - Selectively incorporated to the states.
